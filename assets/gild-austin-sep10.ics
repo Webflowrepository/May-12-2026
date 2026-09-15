@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GILD//Pre-event Intelligence//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gild-austin-2026-09-10@gildhq.com
+DTSTAMP:20260905T000000Z
+DTSTART:20260910T230000Z
+DTEND:20260911T013000Z
+SUMMARY:Austin GILD AI Forum x Tecla: AI and Engineering Leaders Dinner
+LOCATION:VERDAD True Modern Mexican\, 2701 Perseverance Dr\, Austin\, TX 78731
+DESCRIPTION:Austin GILD AI Forum x Tecla. Curated dinner\, Conversation Starter\, intimate breakouts. Chatham House (off the record). Presented in partnership with Tecla.
+URL:https://gildhq.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
