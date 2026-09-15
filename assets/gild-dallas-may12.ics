@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GILD//Pre-event Intelligence//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gild-dallas-2026-05-12@gildhq.com
+DTSTAMP:20260905T000000Z
+DTSTART:20260512T230000Z
+DTEND:20260513T013000Z
+SUMMARY:Dallas GILD AI Forum x Tecla: Making AI Gains Stick
+LOCATION:Venue TBD\, Dallas\, TX
+DESCRIPTION:Dallas GILD AI Forum x Tecla. Curated dinner\, Conversation Starter\, intimate breakouts. Chatham House (off the record). Presented in partnership with Tecla.
+URL:https://gildhq.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
